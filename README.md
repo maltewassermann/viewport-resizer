@@ -1,2 +1,2 @@
-# viewport-resizer
+# Viewport Resizer
 Responsive Design Testing Tool
