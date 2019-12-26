@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "A chrome extension for testing responsive web page,inspired by @MalteWassermann's work."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Viewport Resizer"
+   }
+}
