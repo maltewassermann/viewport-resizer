@@ -1,0 +1,14 @@
+{
+  "appDescription": {
+    "description": "The description of the application",
+    "message": "Responsive design testing tool to test any website’s responsiveness – it only takes 2 seconds! Emulate various screen resolutions."
+  },
+  "appName": {
+    "description": "The name of the application",
+    "message": "Viewport Resizer – Responsive Testing Tool"
+  },
+  "shortName": {
+    "description": "The short name of the application",
+    "message": "Viewport Resizer"
+  }
+}
